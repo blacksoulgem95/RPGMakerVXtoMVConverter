@@ -1,0 +1,1 @@
+for /r %%f in (*.png) do rpgMakerScaler.bat "%%f"
